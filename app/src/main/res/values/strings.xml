@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLib</string>
+    <string name="join">join</string>
+    <string name="split">split</string>
+</resources>
